@@ -1,3 +1,6 @@
+2 options whether build the hardware or software so we decided to build the soft so : 
+
+
 # CIT
 DATA
 PHASE 1 — Yard node (ESP32 #1)
